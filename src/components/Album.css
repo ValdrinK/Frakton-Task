@@ -1,0 +1,26 @@
+.album_container {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  width: 250px;
+  margin: 0 10px;
+}
+
+img {
+  width: 150px;
+}
+
+h4 {
+  text-align: center;
+  margin: 10px 0;
+}
+
+p {
+  margin: 10px;
+  vertical-align: bottom;
+}
+
+.to_photo-link {
+  text-decoration: none;
+  color: black;
+}

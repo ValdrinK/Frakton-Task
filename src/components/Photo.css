@@ -1,0 +1,15 @@
+.photo_container {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  width: 250px;
+  margin: 0 10px;
+}
+
+h4 {
+  text-align: center;
+}
+
+img {
+  width: 150px;
+}
